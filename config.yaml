@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    participant:
+      name: participant
+      email: participant@example.com
+      password: "$2b$12$O0SQywahDdTIZzTcFXCPPOKdUM.upGz4t7jgMrkCh4Xw0U6ZMnaNe"
+
+cookie:
+  name: my_cookie
+  key: "yOmFi8dnthqDxGPSVe8e5ZFQwsj8NczpSrJWkLvbpMLrOZrk"
+  expiry_days: 30
+
+preauthorized:
+  emails: []
